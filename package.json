@@ -1,6 +1,7 @@
 {
   "name": "Scrim-s04qfak",
   "description": "https://v2.scrimba.com/introduction-to-es6-c0t/~012",
+  "type": "module",
   "scripts": {
     "start": "vite",
     "dev": "vite",
